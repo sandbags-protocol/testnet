@@ -4,6 +4,10 @@
 
 * [Join Relay Network Dev-testnet](https://docs.sandbags.io/join-relay-network-dev-testnet/setup)
 
+## Core Service
+
+core service api url(configuration for `center.apiUrl`): https://core.dev-testnet.sandbags.io
+
 ## Scheduler
 
 | test content | date | version | description |
