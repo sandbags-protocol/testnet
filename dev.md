@@ -3,6 +3,7 @@
 ## Links
 
 * [Join Relay Network Dev-testnet](https://docs.sandbags.io/join-relay-network-dev-testnet/setup)
+* [Stats Dashboard](https://core.dev-testnet.sandbags.io)
 
 ## Core Service
 
