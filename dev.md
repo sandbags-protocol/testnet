@@ -19,4 +19,4 @@ core service api url(configuration for `center.apiUrl`): https://core.dev-testne
 | node basic | 2023-01-08 ~ |  | version control |
 | scanner & processor | 2023-01-08 ~ |  | data sync, error process |
 | bot |  |  | version control, data sync, conflict handling |
-| utils |  |  | task management |
+| utils | 2023-01-08 ~ | - | task management |
