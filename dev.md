@@ -19,5 +19,5 @@ core service api url(configuration for `center.apiUrl`): https://core.dev-testne
 | global access II | 2022-01-08 ~ |  | 1.0.15 | distributed core service |
 | node basic | 2023-01-08 ~ |  |  | version control |
 | scanner & processor | 2023-01-08 ~ |  |  | data sync, error process |
-| bot |  | 0.1.0 |  | version control, data sync, conflict handling |
+| bot |  |  |  | version control, data sync, conflict handling |
 | utils | 2023-01-08 ~ | - | 1.0.15 | task management |
