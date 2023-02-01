@@ -17,7 +17,7 @@ core service api url(configuration for `center.apiUrl`): https://core.dev-testne
 | p2p network | 2022-12-18 ~ 2022-12-30 | 0.1.2 | 1.0.0 | DHT, data sync |
 | global access | 2022-12-31 ~ 2023-01-07 | 0.1.4 | 1.0.0 | (NOTE: the network may not be available at this stage) |
 | global access II | 2022-01-08 ~ |  | 1.0.15 | distributed core service |
-| node basic | 2023-01-08 ~ |  |  | version control |
-| scanner & processor | 2023-01-08 ~ |  |  | data sync, error process |
+| node basic | 2023-01-08 ~ 2023-01-31 | 0.1.7 | 1.0.24 | version control |
+| scanner & processor | 2023-01-08 ~ 2023-01-31 | 0.1.7 | 1.0.24 | data sync, error process |
 | bot |  |  |  | version control, data sync, conflict handling |
 | utils | 2023-01-08 ~ | - | 1.0.15 | task management |
