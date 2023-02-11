@@ -23,4 +23,4 @@ core service api url(configuration for `center.apiUrl`): https://core.dev-testne
 | :construction: core service UI | 2023-02-12 ~ |  |  | management |
 | :clock10: bot |  |  |  | version control, data sync, conflict handling |
 | :construction: utils | 2023-01-08 ~ |  |  | task management |
-| :clock10: global access IV | | | cross region file system |
+| :clock10: global access IV | | | | cross region file system |
