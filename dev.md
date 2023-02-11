@@ -21,6 +21,6 @@ core service api url(configuration for `center.apiUrl`): https://core.dev-testne
 | :white_check_mark: global access II | 2023-01-08 ~ 2023-02-06 | 0.1.7 | 1.0.27 | distributed core service, data centers |
 | :white_check_mark: global access III | 2023-02-07 ~ 2023-02-11 | 0.1.7 | 1.0.29 | horizontal scaling, data center sisaster switchover |
 | :construction: core service UI | 2023-02-12 ~ |  |  | management |
-| :clock10: bot |  |  |  | version control, data sync, conflict handling |
+| :clock10: bot |  |  |  | version control, data sync, conflict handling, WASM |
 | :construction: utils | 2023-01-08 ~ |  |  | task management |
 | :clock10: global access IV | | | | cross region file system |
